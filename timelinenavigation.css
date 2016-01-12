@@ -1,0 +1,6 @@
+#TimeLineNavigation.scrolNav {width:100%; font-family: 'Oxygen', sans-serif; font-weight: 400}
+#TimeLineNavigation .scrolNav ul {list-style-type: none; padding:0px;}
+#TimeLineNavigation #scrolNav {overflow: hidden;}
+#TimeLineNavigation #scrolNav ul li {list-style:none; cursor: pointer; float:left; margin:0px; color:gray}
+#TimeLineNavigation #scrolNavContent {display:none;}
+#TimeLineNavigation #scrolNav .clicked {color:black; font-weight:700}
