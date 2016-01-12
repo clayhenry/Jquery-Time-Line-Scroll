@@ -13,7 +13,7 @@ HTML structure:
 
 <div id="TimeLineNavigation" class="scrolNav">
     <div id="scrolNav">
-        <ul style="background-color:blue;">
+        <ul>
             <li>1998</li>
             <li>2001</li>
             <li>2003</li>
