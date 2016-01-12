@@ -1,5 +1,5 @@
 # Jquery-Time-Line-Scroll
-A quick and simple jquery time line scroller with a small JS footprint (2kb)
+A quick and simple jquery timeline scroller with a small JS footprint (2kb)
 
 ![alt text](https://github.com/clayhenry/Jquery-Time-Line-Scroll/blob/master/slider_img.jpg "Jquery time scroll")
 
