@@ -1,3 +1,7 @@
+/* Jquery Time Line Scroll  V. 0.2 
+Pawel Urbanski https://github.com/clayhenry/
+*/
+
 function timeLineNavigation(){
    
      var elementWidth = 100;
@@ -80,12 +84,10 @@ function timeLineNavigation(){
               //fancy animation
             $(this).parent().animate({'margin-left': newMarginLeft + "px"}, animationDuration);
             
-            //content fade
-           
-           //make sure the nav elements has its content element  
-                                      
+                 //content fade
+                          
                  scrolNavPlaceholder.fadeOut(fadeDuration, function(){
-                                                          
+                        //make sure the nav elements has its content element                                   
                      if( scrolNavPlaceholder.html() != "") {
                         scrolNavPlaceholder.html( scrollContent[inc -1 ].innerHTML );
                      } else {console.log("error:" + " You have " + scrollContent.length + " content elements, and " + elementsCount.length + " navigation elements")}
