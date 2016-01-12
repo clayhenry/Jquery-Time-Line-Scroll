@@ -1,6 +1,9 @@
 # Jquery-Time-Line-Scroll
 A quick, jquery time line scroller with a small JS footprint (2kb)
 
+![alt text](https://github.com/clayhenry/Jquery-Time-Line-Scroll/blob/master/slider_img.jpg "Jquery time scroll")
+
+
 ## Setup
 Requires Jquery 1.2 +
 
@@ -41,5 +44,7 @@ timeLineNavigation({
 Currently, there are 2 parameters: **duration** (time in ms for slide effect) and **fade** (time in ms for content block fade in/out)
 
 ##Demo
+
+[Full example on JSfiddle](https://jsfiddle.net/68b0fzrv/)
 
 
