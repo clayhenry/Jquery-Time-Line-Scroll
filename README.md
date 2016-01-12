@@ -29,7 +29,7 @@ HTML structure:
            <li>Content for 2006</li>
            <li>Content for 2009</li>
         </ul>
-     </div>
+</div>
 
 ```
 
