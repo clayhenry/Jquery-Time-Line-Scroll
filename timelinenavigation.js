@@ -69,7 +69,7 @@ function timeLineNavigation(){
                
                var inc = 1;
                   
-                $(navigationElement).each(function(){
+                $(this).each(function(){
                    //check which element has been clicked
                     if(! $(this).hasClass("clicked")){
                         inc++;
