@@ -55,7 +55,7 @@ function timeLineNavigation(){
             $(navigationElement).on("click", function(){
                    
                  // reove existing "click" classe
-                     $(navigationElement).each(function(){
+                     $(this).each(function(){
                                     
                      if( $(this).hasClass("clicked")){
                         $(this).removeClass("clicked");
